@@ -1,4 +1,4 @@
-# CALCULADORA em PYTHON
+# CALCULADORA em PYTHON 
 
 # Início com um espaçamento para o cabeçalho, determinando uma variável 'pc' como título e a centralizo complementando com '*' a linha toda.
 print("\n")
